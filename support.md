@@ -1,8 +1,7 @@
-## Having Issues? Drop Us a Line!
+# Having Issues? Drop Us a Line!
 
 <div class="container">
   <div class="row header">
-    <h1>CONTACT US &nbsp;</h1>
     <h3>Fill out the form below to learn more!</h3>
   </div>
   <div class="row body">
