@@ -4,11 +4,7 @@ Please read the following terms carefully
 
 BY CLICKING “I ACCEPT,” OR BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICE, YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE, YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND CONDITIONS, INCLUDING attendance tracker’S PRIVACY POLICY AND ANY ADDITIONAL TERMS AND POLICIES attendance tracker MAY PROVIDE FROM TIME TO TIME (TOGETHER, THESE "TERMS"). If you are not eligible, or do not agree to the Terms, then you do not have our permission to use the Service. YOUR USE OF THE SERVICE, AND attendance tracker’S PROVISION OF THE SERVICE TO YOU, CONSTITUTES AN AGREEMENT BY attendance tracker AND BY YOU TO BE BOUND BY THESE TERMS.
 
-Please read the attendance tracker Privacy Policy (https:/ attendance tracker.com/privacy) carefully for information relating to our collection, use, storage, disclosure of your personal information. The attendance tracker Privacy Policy is incorporated by this reference into, and made a part of, these Terms.
-
-Arbitration notice
-
-Except for certain kinds of disputes described in Section 16, you agree that disputes arising under these Terms will be resolved by binding, individual arbitration, and BY ACCEPTING THESE TERMS, YOU AND attendance tracker ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING. YOU AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend your rights under this contract (except for matters that may be taken to small claims court). Your rights will be determined by a NEUTRAL ARBITRATOR and NOT a judge or jury. (See Section 16).
+Please read the attendance tracker Privacy Policy (https://attendance-tracker.site/privacy) carefully for information relating to our collection, use, storage, disclosure of your personal information. The attendance tracker Privacy Policy is incorporated by this reference into, and made a part of, these Terms.
 
 ## Attendance Tracker Service Overview
 
