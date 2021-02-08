@@ -26,8 +26,9 @@
           </p>
         </li>        
         <li>
-          <label for="comments">comments</label>
           <textarea cols="46" rows="3" name="comments"></textarea>
+          <br>
+          <label for="comments">comments</label>
         </li>
         
         <li>
@@ -39,6 +40,3 @@
     </form>  
   </div>
 </div>
-
-
-[view the raw html page](https://attendance-tracker.site/support.html)
