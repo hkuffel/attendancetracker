@@ -25,7 +25,6 @@
             <input type="email" name="email" placeholder="john.smith@gmail.com" />
           </p>
         </li>        
-        <li><div class="divider"></div></li>
         <li>
           <label for="comments">comments</label>
           <textarea cols="46" rows="3" name="comments"></textarea>
