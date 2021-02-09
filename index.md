@@ -4,7 +4,7 @@ You can use this service to automatically generate an attendance report from any
 
 ### Let's Get Started
 
-<form action="https://attendance-tracker.site/install">
+<form action="https://attendance-tracker.site/install" target="_blank>
     <input type="submit" value="Authenticate" />
 </form>
 
