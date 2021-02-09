@@ -1,2 +1,2 @@
-<script>window.location.href = "https://script.google.com/macros/s/AKfycbypPuyVGX1QthEpYQo11IHzQwmbXRtdeCpr06bkyWvMAH96xkr0X2TGVw/usercallback" + document.location.search;
+<script>window.location.href = "https://zoom.us/oauth/authorize?client_id=gbBh7FGJRQCB8Fs1AYVDWw&response_type=code&redirect_uri=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbypPuyVGX1QthEpYQo11IHzQwmbXRtdeCpr06bkyWvMAH96xkr0X2TGVw%2Fusercallback" + document.location.search;
 </script>
