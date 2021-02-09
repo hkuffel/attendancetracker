@@ -4,7 +4,9 @@ You can use this service to automatically generate an attendance report from any
 
 ### Let's Get Started
 
-Actual Place to hit the API will be here.
+<form action="https://attendance-tracker/install">
+    <input type="submit" value="Authenticate" />
+</form>
 
 ### Support or Contact
 
