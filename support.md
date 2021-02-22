@@ -7,7 +7,6 @@
   <div class="row body">
     <form action="#">
       <ul>
-        
         <li>
           <p class="left">
             <label for="first_name">first name</label>
@@ -18,7 +17,6 @@
             <input type="text" name="last_name" placeholder="Smith" />      
           </p>
         </li>
-        
         <li>
           <p>
             <label for="email">email <span class="req">*</span></label>
@@ -30,12 +28,10 @@
           <br>
           <label for="comments">comments</label>
         </li>
-        
         <li>
           <input class="btn btn-submit" type="submit" value="Submit" />
           <small>or press <strong>enter</strong></small>
         </li>
-        
       </ul>
     </form>  
   </div>
