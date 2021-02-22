@@ -1,6 +1,6 @@
 ## Welcome to the Automatic Zoom Attendance Tracker
 
-You can use this service to automatically generate an attendance report from any of your past Zoom meetings.
+You can use this service to automatically generate an attendance report from any of your past Zoom meetings. You must have a Pro Zoom account to use this service.
 
 ### Let's Get Started
 
