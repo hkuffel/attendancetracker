@@ -4,9 +4,9 @@
     <label style="display: block;"> Your Name: </label>
     <input style="display: block;" type="text" name="name">
     <label style="display: block;"> Your Email: </label>
-    <input style="display: block;" type="email" name="email" value="Your Email">
+    <input style="display: block;" type="email" name="email">
     <label style="display: block;"> Your Issue: </label>
-    <input style="display: block;" type="text" name="issue" value="Your Issue">
-    <button style="display: block;" type="submit">Send</button>
+    <input style="display: block; height: 200px;" type="text" name="issue">
+    <button style="display: block; margin:2px 0 20px 10px;" type="submit">Send</button>
   </form>
 </div>
