@@ -1,5 +1,24 @@
 # Having Issues? Drop Us a Line!
+<style>
+    .btn {
+      display: inline-block;
+      margin-bottom: 1rem;
+      color: rgba(255, 255, 255, 0.7);
+      background-color: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.2);
+      border-style: solid;
+      border-width: 1px;
+      border-radius: 0.3rem;
+      transition:color 0.2s, background-color 0.2s, border-color 0.2s
+  }
 
+  .btn:hover {
+      color: rgba(255, 255, 255, 0.8);
+      text-decoration: none;
+      background-color: rgba(255, 255, 255, 0.2);
+      border-color:rgba(255, 255, 255, 0.3)
+  }
+</style>
 <div class="container">
   <div class="row header">
     <h3>Fill out the form below to learn more!</h3>
@@ -30,7 +49,6 @@
         </li>
         <li>
           <input class="btn btn-submit" type="submit" value="Submit" />
-          <small>or press <strong>enter</strong></small>
         </li>
       </ul>
     </form>  
